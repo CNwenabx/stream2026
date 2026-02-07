@@ -388,6 +388,50 @@ http://cdn6.163189.xyz/163189/amzy
 
 # 国际频道
 #体育
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSports1",FOX Sports 1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSports1",FOX Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSports1",FOX Sports 1
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2501.ts
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSports1",FOX Sports 1
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3645.ts
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS1HDUS",FOX SPORTS 1 HD US
+http://67.220.67.246:2347/livehttpplay?channel_id=13033
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS1HDUS",FOX SPORTS 1 HD US
+http://208.87.242.79/livehttpplay?channel_id=13033
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSports2",FOX Sports 2
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3646.ts
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSports2",FOX Sports 2
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSports2",FOX Sports 2
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2500.ts
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSports2",FOX Sports 2
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2HDUS",FOX SPORTS 2 HD US
+http://67.220.67.246:2347/livehttpplay?channel_id=13034
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2HDUS",FOX SPORTS 2 HD US
+http://208.87.242.79/livehttpplay?channel_id=13034
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSportsOhio",FOX Sports Ohio
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2518.ts
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSportsTennessee",FOX Sports Tennessee
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2508.ts
+
+#EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CAFoxSportsRacing",CA Fox Sports Racing
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3053.ts
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Now Sports 英超1台.png",Now Sports 英超1台
 http://109.61.81.35:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 #新闻
@@ -484,6 +528,7 @@ https://www.goodiptv.club/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",网球王子
 
 https://www.goodiptv.club/huya/11352882
+
 
 
 
