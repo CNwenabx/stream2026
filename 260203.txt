@@ -388,31 +388,31 @@ http://cdn6.163189.xyz/163189/amzy
 
 # 国际频道
 #体育
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports",FOX Sports 1
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports",FOX Sports 1
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports",FOX Sports 1
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS1
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2501.ts
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports",FOX Sports 1
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS1
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3645.ts
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports",FOX SPORTS 1
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS1
 http://67.220.67.246:2347/livehttpplay?channel_id=13033
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports",FOX SPORTS 1
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS1
 http://208.87.242.79/livehttpplay?channel_id=13033
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports2"FOX Sports 2
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2.png",FOXSPORTS2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3646.ts
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports2"FOX Sports 2
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2.png",FOXSPORTS2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports2"FOX Sports 2
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2.png",FOXSPORTS2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2500.ts
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports2"FOX Sports 2
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2.png",FOXSPORTS2
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports2"FOX SPORTS 2
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2.png",FOXSPORTS2
 http://67.220.67.246:2347/livehttpplay?channel_id=13034
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports2"FOX SPORTS 2
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2.png",FOXSPORTS2
 http://208.87.242.79/livehttpplay?channel_id=13034
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/FOXSports",CA Fox Sports Racing
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",CA FOXSPORTSRacing
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3053.ts
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Now Sports 英超1台.png",Now Sports 英超1台
 http://109.61.81.35:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
@@ -510,6 +510,7 @@ https://www.goodiptv.club/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",网球王子
 
 https://www.goodiptv.club/huya/11352882
+
 
 
 
