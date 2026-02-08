@@ -411,11 +411,11 @@ https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS1
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2501.ts
-#EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS1
+#EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3645.ts
-#EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS1
+#EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS
 http://67.220.67.246:2347/livehttpplay?channel_id=13033
-#EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS1
+#EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS
 http://208.87.242.79/livehttpplay?channel_id=13033
 #EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2.png",FOXSPORTS2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3646.ts
@@ -527,6 +527,7 @@ https://www.goodiptv.club/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",网球王子
 
 https://www.goodiptv.club/huya/11352882
+
 
 
 
