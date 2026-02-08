@@ -388,6 +388,8 @@ http://cdn6.163189.xyz/163189/amzy
 
 # 国际频道
 #体育
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Now Sports 英超1台.png",Now Sports 英超1台
+http://109.61.81.35:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS
 https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS
@@ -414,8 +416,7 @@ http://67.220.67.246:2347/livehttpplay?channel_id=13034
 http://208.87.242.79/livehttpplay?channel_id=13034
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",CA FOXSPORTSRacing
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3053.ts
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Now Sports 英超1台.png",Now Sports 英超1台
-http://109.61.81.35:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+
 #新闻
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOX NOW NEWS.png",FOX NOW NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -510,6 +511,7 @@ https://www.goodiptv.club/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",网球王子
 
 https://www.goodiptv.club/huya/11352882
+
 
 
 
