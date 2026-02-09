@@ -203,8 +203,6 @@ http://112.86.202.37:8112/JSBC_iptv/C10000237@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000236@JSBC
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川科教.png",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-#EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新视觉HD.png",新视觉HD
-http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/南国都市4K.png",南国都市4K
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #南京
@@ -401,9 +399,9 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2193.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSF1.png" group-title="国际体育",SKY SPORTS F1
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2190.ts
-#EXTINF:-1 tvg-name="SKYSPORTSMAINEVENT" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSMAINEVENTS.png" group-title="国际体育",SKY SPORTS MAIN EVENTS
+#EXTINF:-1 tvg-name="SKYSPORTSMAINEVENT" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSMAINEVENT.png" group-title="国际体育",SKY SPORTS MAIN EVENTS
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2185.ts
-#EXTINF:-1 tvg-name="SKYSPORTSMAINEVENT" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSMAINEVENTS.png" group-title="国际体育",SKY SPORTS MAIN EVENTS
+#EXTINF:-1 tvg-name="SKYSPORTSMAINEVENT" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSMAINEVENT.png" group-title="国际体育",SKY SPORTS MAIN EVENTS
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2184.ts
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSNEWS.png" group-title="国际体育",SKY SPORTS NEWS
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2179.ts
@@ -417,8 +415,6 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2501.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3645.ts
 #EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS
 http://67.220.67.246:2347/livehttpplay?channel_id=13033
-#EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",FOXSPORTS
-http://208.87.242.79/livehttpplay?channel_id=13033
 #EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2.png",FOXSPORTS2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3646.ts
 #EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2.png",FOXSPORTS2
@@ -523,6 +519,7 @@ https://www.goodiptv.club/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",网球王子
 
 https://www.goodiptv.club/huya/11352882
+
 
 
 
