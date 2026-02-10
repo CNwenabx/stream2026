@@ -295,8 +295,6 @@ http://hls.168.us.kg/u/332/master.m3u8
 
 # 港台影视
 #EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png",翡翠台
-https://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png",翡翠台
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png",翡翠台
 https://mytv.cdn.loc.cc/o12.php?id=fct
@@ -322,10 +320,6 @@ http://r.jdshipin.com/jUx8K
 http://iptv.4666888.xyz/iptv2A.php?id=22
 #EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/华丽翡翠台.png",华丽翡翠台
 http://r.jdshipin.com/thuYX
-#EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVB星河.png",TVB星河
-http://r.jdshipin.com/sXuuD
-#EXTINF:-1 tvg-name="TVB星河" group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVB星河.png",TVB星河(粤)
-https://t.freetv.fun/live/tvbxing-he.m3u8
 #EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVB DRAMA.png",TVB DRAMA
 http://iptv.4666888.xyz/iptv2A.php?id=33
 #EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVBJ1.png",TVBJ1
@@ -335,15 +329,10 @@ https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVB Plus.png",TVB Plus
 http://74.91.26.218:82/live/j2.m3u8
 #EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Now星影台.png",Now星影台
-http://74.91.26.218:82/live/nowxy.m3u8
-#EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Now星影台.png",Now星影台
 http://rihou.cc:555/tv/[Bx]Now星影
-#EXTINF:-1 tvg-name="now4" group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/now4.png",Now爆谷台
-http://74.91.26.218:82/live/nowbg.m3u8
+
 #EXTINF:-1 tvg-name="now4" group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/now4.png",Now爆谷台
 http://rihou.cc:555/tv/[Bx]Now爆谷
-#EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美亚电影台.png",美亚电影台
-http://74.91.26.218:82/live/mydy.m3u8
 
 # 港台综合
 #EXTINF:-1 group-title="港台综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中视.png",中视
@@ -519,6 +508,7 @@ https://www.goodiptv.club/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",网球王子
 
 https://www.goodiptv.club/huya/11352882
+
 
 
 
