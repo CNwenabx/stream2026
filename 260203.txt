@@ -488,7 +488,7 @@ https://www.goodiptv.club/huya/23650804
 https://www.goodiptv.club/huya/23652426
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",东北一家人
 https://www.goodiptv.club/huya/21059634
-#EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",终极系列
+#EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",终极三国
 https://www.goodiptv.club/huya/21059562
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",魔幻手机
 https://www.goodiptv.club/huya/11352966
@@ -519,6 +519,7 @@ https://www.goodiptv.club/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",网球王子
 
 https://www.goodiptv.club/huya/11352882
+
 
 
 
