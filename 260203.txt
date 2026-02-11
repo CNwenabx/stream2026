@@ -346,11 +346,11 @@ http://iptv.4666888.xyz/iptv2A.php?id=26
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVB Plus.png",TVB Plus
 http://74.91.26.218:82/live/j2.m3u8
-#EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美亚电影.png",美亚电影
+#EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美亚高清电影.png",美亚电影
 https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美亚电影.png",美亚电影
+#EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美亚高清电影.png",美亚电影
 http://67.220.67.246:2347/livehttpplay?channel_id=20197
-#EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美亚电影.png",美亚电影
+#EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美亚高清电影.png",美亚电影
 http://rihou.cc:555/tv/[SX]美亚电影
 #EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Now星影台.png",Now星影台
 http://rihou.cc:555/tv/[Bx]Now星影
@@ -397,7 +397,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
 http://cdn6.163189.xyz/163189/amzy
 
 # 国际体育
-#EXTINF:-1 group-title="国际体育" tvg-logo="https://cnwenabx.github.io/stream2026/LOGO/Premier-League-Logo.png",Premier League TV
+#EXTINF:-1 group-title="国际体育" tvg-logo="https://cnwenabx.github.io/stream2026/LOGO/premier-league-new-log.png",Premier League TV
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660938.ts
 #EXTINF:-1 tvg-name="Now Sports 英超1台" group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Now Sports 英超1台.png",NOW SPORTS 英超1台
 http://109.61.81.35:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
@@ -531,6 +531,7 @@ https://www.goodiptv.club/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",网球王子
 
 https://www.goodiptv.club/huya/11352882
+
 
 
 
