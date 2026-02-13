@@ -501,27 +501,27 @@ http://cdn6.163189.xyz/163189/chu
 
 #剧集
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",地下交通站
-https://www.goodiptv.club/huya/11342433
+http://live.ottiptv.cc/huya/11342433
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",炊事班的故事
-https://www.goodiptv.club/huya/19524135
+http://live.ottiptv.cc/huya/19524135
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",杨光的快乐生活
-https://www.goodiptv.club/huya/11602085
+http://live.ottiptv.cc/huya/11602085
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",马大帅
-https://www.goodiptv.club/huya/23650804
+http://live.ottiptv.cc/huya/23650804
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",刘老根
-https://www.goodiptv.club/huya/23652426
+http://live.ottiptv.cc/huya/23652426
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",东北一家人
-https://www.goodiptv.club/huya/21059634
+http://live.ottiptv.cc/huya/21059634
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",终极三国
-https://www.goodiptv.club/huya/21059562
+http://live.ottiptv.cc/huya/21059562
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",魔幻手机
-https://www.goodiptv.club/huya/11352966
+http://live.ottiptv.cc/huya/11352966
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",粉红女郎
-https://www.goodiptv.club/huya/26355794
+http://live.ottiptv.cc/huya/26355794
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",三国演义
 https://live.ottiptv.cc/huya/11602081
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",三国演义
-https://www.goodiptv.club/huya/11602081
+http://live.ottiptv.cc/huya/11602081
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",封神榜
 http://live.ottiptv.cc/huya/29465849
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",天龙八部
@@ -531,17 +531,17 @@ https://live.ottiptv.cc/huya/20985816
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",猫和老鼠
 https://live.ottiptv.cc/huya/11352879
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",樱桃小丸子
-https://www.goodiptv.club/huya/11342394
+http://live.ottiptv.cc/huya/11342394
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",蜡笔小新
-https://www.goodiptv.club/huya/11352970
+http://live.ottiptv.cc/huya/11352970
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",精灵宝可梦
-https://www.goodiptv.club/huya/23749096
+http://live.ottiptv.cc/huya/23749096
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",七龙珠
 https://live.ottiptv.cc/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",七龙珠
-https://www.goodiptv.club/huya/11601966
+http://live.ottiptv.cc/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",网球王子
-https://www.goodiptv.club/huya/11352882
+http://live.ottiptv.cc/huya/11352882
 
 #直播中国
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",中央电视塔东
@@ -630,6 +630,7 @@ http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 #EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",怡然②
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+
 
 
 
