@@ -543,6 +543,72 @@ https://www.goodiptv.club/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",网球王子
 https://www.goodiptv.club/huya/11352882
 
+#直播中国
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",中央电视塔东
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",中央电视塔南
+https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",运河公园
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",金梦海湾
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",老龙头
+https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",天山天池
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",海河
+https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",绿美白江湖
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",古北水镇
+https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",北山公园
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",始信峰
+https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",南川老街
+https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",南京玄武湖公园
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",始信新道
+https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",西海大峡谷
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",排云亭
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",塞罕坝
+https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",光明顶
+https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",朱雀云顶远眺
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",京娘湖
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",红石峡
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",远眺玉龙雪山
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",霓虹桥
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",良山八角寨
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",金山岭长城
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",京娘湖2
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",天府熊猫塔
+https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",梦笔生花
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",飞来石
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",卧云峰
+http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",趵突泉
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+
 #熊猫
 #EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",成都高清
 http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
@@ -564,6 +630,7 @@ http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 #EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",怡然②
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+
 
 
 
