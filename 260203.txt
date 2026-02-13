@@ -397,11 +397,9 @@ http://cdn6.163189.xyz/163189/amzy
 # 国际体育
 #EXTINF:-1 group-title="国际体育" tvg-logo="https://cnwenabx.github.io/stream2026/LOGO/premier-league-logo-black-and-white.JPG",Premier League TV
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660938.ts
-#EXTINF:-1 tvg-name="Now Sports 英超1台" group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Now Sports 英超1台.png",NOW SPORTS 英超1台
-http://109.61.81.35:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 #EXTINF:-1 tvg-name="SKYSPORTSPREMIERLEAGUE" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSPREMIERLEAGUE.png" group-title="国际体育",SKY SPORTS PREMIER LEAGUE
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2182.ts
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSPREMIERLEAGUE.png" group-title="国际体育",SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-name="SKYSPORTSPREMIERLEAGUE" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSPREMIERLEAGUE.png" group-title="国际体育",SKY SPORTS PREMIER LEAGUE
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2181.ts
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSARENA.png" group-title="国际体育",SKY SPORTS ARENA
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2193.ts
@@ -433,7 +431,6 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2500.ts
 http://67.220.67.246:2347/livehttpplay?channel_id=13034
 #EXTINF:-1 group-title="国际体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png",CA FOXSPORTSRacing
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3053.ts
-
 
 #国际综合
 #EXTM3U
@@ -486,27 +483,6 @@ http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 group-title="国际综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/channelu.png",channelu
 http://cdn6.163189.xyz/163189/chu
 
-#熊猫
-#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",成都高清
-http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
-#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰高清
-http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
-#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰青青
-http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
-#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰妃妃
-http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
-#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰娅祥
-http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
-#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰瑞瑞
-http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
-#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰英英
-http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
-#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰壹壹玖玖
-http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
-#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰水秀
-http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
-#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",怡然②
-http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 
 #剧集
 #EXTINF:-1 tvg-name="虎牙" group-title="剧集轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",地下交通站
@@ -550,8 +526,29 @@ https://live.ottiptv.cc/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",七龙珠
 https://www.goodiptv.club/huya/11601966
 #EXTINF:-1 tvg-name="虎牙" group-title="动画轮播" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png",网球王子
-
 https://www.goodiptv.club/huya/11352882
+
+#熊猫
+#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",成都高清
+http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰高清
+http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
+#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰青青
+http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰妃妃
+http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
+#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰娅祥
+http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
+#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰瑞瑞
+http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
+#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰英英
+http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰壹壹玖玖
+http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
+#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",都江堰水秀
+http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
+#EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",怡然②
+http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 
 
 
