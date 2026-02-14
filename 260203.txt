@@ -131,17 +131,11 @@ https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5e
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
 https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&line=3
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
-https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&line=4
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
 https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&line=6
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
 https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&line=7
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
 https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&line=8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="数字频道",CHC动作电影
-https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&line=2
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="数字频道",CHC动作电影
-https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&line=6
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="数字频道",CHC动作电影
 https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&line=7
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC动作电影.png" group-title="数字频道",CHC动作电影
@@ -359,19 +353,19 @@ http://112.86.202.37:8112/JSBC_iptv/C10000216@JSBC
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/优漫卡通.png",优漫卡通
 http://112.86.202.37:8112/JSBC_iptv/C10000228@JSBC
 
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="hthttps://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
 https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=1
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="hthttps://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
 https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=2
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="hthttps://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
 https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=3
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="hthttps://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
 https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=4
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="hthttps://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
 https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=5
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="hthttps://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
 https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=6
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="hthttps://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="地方频道",新动漫
 https://iptv.catvod.com/live.php?token=50b33f20f2a8f672b1630ee9dcf5df21f0a155b5ea818016ca7068ad9d8a0b71&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=7
 
 
@@ -768,8 +762,7 @@ http://live.ottiptv.cc/huya/11601966
 http://live.ottiptv.cc/huya/11352882
 
 #直播中国
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",春熙路太古里
-https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
+
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",建水双龙桥
 https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",红石峡
@@ -802,8 +795,6 @@ https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",始信峰
 https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",南川老街
-https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",南京玄武湖公园
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",始信新道
@@ -812,8 +803,6 @@ https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",排云亭
 https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",塞罕坝
-https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",光明顶
 https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",朱雀云顶远眺
@@ -866,6 +855,7 @@ http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 #EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",怡然②
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+
 
 
 
