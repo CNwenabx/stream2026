@@ -36,6 +36,13 @@ http://122.96.52.98:8006/JS_CUCC/G_CCTV-15-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nn
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEj7L5TMaaLEN8QSSnoeVsO94LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png",CCTV17
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-17-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvZuARt3SsS1lp07gslq8B54LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4K超高清.png",CCTV4K超高清
+http://43.156.8.127:5050/ysp?id=2027249501&pid=600002264&q=fhd
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4K超高清.png",CCTV4K超高清
+http://222.186.27.222/hlslive-tx-1-cdn.ysp.cctv.cn/ysp/2029810303.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4K超高清.png",CCTV4K超高清
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2029810301_dlna.m3u8
+
 #卫视
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png",浙江卫视
 https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
@@ -855,6 +862,7 @@ http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 #EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",怡然②
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+
 
 
 
