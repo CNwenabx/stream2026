@@ -612,6 +612,14 @@ rtmp://f13h.mine.nu:1935/sat/tv071
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 group-title="港台综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/公视.png",公视
 rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="港台综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/八大综合.png",八大综合
+http://67.220.67.246:2347/livehttpplay?channel_id=20068
+#EXTINF:-1 group-title="港台综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/八大第一.png",八大第一
+http://67.220.67.246:2347/livehttpplay?channel_id=20073
+#EXTINF:-1 group-title="港台综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/八大戏剧.png",八大戏剧
+http://67.220.67.246:2347/livehttpplay?channel_id=20036
+#EXTINF:-1 group-title="港台综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/八大娱乐.png",八大娱乐
+http://67.220.67.246:2347/livehttpplay?channel_id=20071
 #EXTINF:-1 group-title="港台综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/RHK31.png",RHK31
 http://iptv.4666888.xyz/iptv2A.php?id=23
 #EXTINF:-1 group-title="港台综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCM.png",CCM
@@ -862,6 +870,7 @@ http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 #EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",怡然②
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+
 
 
 
