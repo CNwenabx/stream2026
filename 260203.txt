@@ -501,10 +501,6 @@ https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e
 
 # 港台影视
 #EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png",翡翠台
-https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png",翡翠台
 http://74.91.26.218:82/live/jade.m3u8
 #EXTINF:-1 group-title="港台影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png",翡翠台
 https://t.freetv.fun/live/fei-cui-1.php
@@ -828,6 +824,7 @@ http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 #EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",怡然②
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+
 
 
 
