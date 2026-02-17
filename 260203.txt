@@ -532,6 +532,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=asam
 http://cdn6.163189.xyz/163189/amzy
 
 # 国际体育
+#EXTINF:-1 group-title="国际体育" tvg-logo="https://cnwenabx.github.io/stream2026/LOGO/NBATV",NBATV
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2470.ts
+#EXTINF:-1 group-title="国际体育" tvg-logo="https://cnwenabx.github.io/stream2026/LOGO/NBATV",NBATV
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3751.ts
+#EXTINF:-1 group-title="国际体育" tvg-logo="https://cnwenabx.github.io/stream2026/LOGO/NBATV",NBATV
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3667.ts
 #EXTINF:-1 group-title="国际体育" tvg-logo="https://cnwenabx.github.io/stream2026/LOGO/premier-league-logo-black-and-white.JPG",Premier League TV
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660938.ts
 #EXTINF:-1 tvg-name="SKYSPORTSPREMIERLEAGUE" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSPREMIERLEAGUE.png" group-title="国际体育",SKY SPORTS PREMIER LEAGUE
@@ -745,6 +751,7 @@ http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 #EXTINF:-1 tvg-name="熊猫频道" group-title="熊猫频道" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png",怡然②
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+
 
 
 
