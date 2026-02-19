@@ -1,1 +1,25 @@
-
+#EXTM3U
+#EXTINF:-1,中天新闻
+https://epg.pw/stream/a62732193d00a568f75f933ea1ae23e6675480055b9cf392089c3c369f1fd0e7.m3u8
+#EXTINF:-1,中天新闻
+https://live.catvod.com/live.php?id=ctinews
+#EXTINF:-1,中天综合台
+https://epg.pw/stream/9ffc906d37cf095d0fb596c3cba6c6253e8e445f4ccd24563c7a2e9e99c39f39.m3u8
+#EXTINF:-1,中天亚洲台
+https://epg.pw/stream/678fb27ce640c3651f5dffe88b7ed74bbb0812eaab40766d861b927e7eafa8d4.ctv
+#EXTINF:-1,中天綜合[CTI HD]
+http://47.242.63.189/livehttpplay?channel_id=20064
+#EXTINF:-1,中天新聞[CTI NEWS]
+http://208.87.242.79/livehttpplay?channel_id=20163
+#EXTINF:-1,中天新聞[CTI NEWS]
+http://47.242.63.189/livehttpplay?channel_id=20163
+#EXTINF:-1,中天新聞[CTI NEWS]
+http://67.220.67.246:2347/livehttpplay?channel_id=20163
+#EXTINF:-1,中天娛樂[CTI ENT HD]
+http://47.242.63.189/livehttpplay?channel_id=20079
+#EXTINF:-1,中天娛樂[CTI ENT HD]
+http://208.87.242.79/livehttpplay?channel_id=20079
+#EXTINF:-1,CTi Variety (中天綜合台) (720p)
+http://23.237.10.66:16372
+#EXTINF:-1,中天新闻
+http://rihou.cc:555/tv/[Bx]中天新闻
