@@ -738,8 +738,6 @@ https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
 #EXTINF:-1 tvg-name="金山岭长城" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",金山岭长城
 https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
-#EXTINF:-1 tvg-name="天府熊猫塔" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",天府熊猫塔
-https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
 #EXTINF:-1 tvg-name="武夷山玉女峰" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",武夷山玉女峰
 https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 #EXTINF:-1 tvg-name="梦笔生花" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",梦笔生花
@@ -772,6 +770,7 @@ http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 #EXTINF:-1 tvg-name="怡然②" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png" group-title="熊猫频道",怡然②
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+
 
 
 
