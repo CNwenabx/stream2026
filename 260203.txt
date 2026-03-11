@@ -316,9 +316,9 @@ http://74.91.26.218:82/live/ctvnews.m3u8
 http://74.91.26.218:82/live/ctsnews.m3u8
 
 港台影视
-#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png" group-title="港台影视",翡翠台4K
+#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png" group-title="港台影视",翡翠台
 https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png" group-title="港台影视",翡翠台4K
+#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png" group-title="港台影视",翡翠台
 http://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/翡翠台.png" group-title="港台影视",翡翠台
 https://t.freetv.fun/live/fei-cui-7.m3u8
@@ -596,6 +596,7 @@ http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 #EXTINF:-1 tvg-name="怡然②" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/熊猫频道.png" group-title="熊猫频道",怡然②
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+
 
 
 
