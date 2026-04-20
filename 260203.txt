@@ -476,8 +476,6 @@ http://live.ottiptv.cc/huya/23652426
 http://live.ottiptv.cc/huya/21059634
 #EXTINF:-1 tvg-name="终极三国" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",终极三国
 http://live.ottiptv.cc/huya/21059562
-#EXTINF:-1 tvg-name="魔幻手机" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",魔幻手机
-http://live.ottiptv.cc/huya/11352966
 #EXTINF:-1 tvg-name="粉红女郎" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",粉红女郎
 http://live.ottiptv.cc/huya/26355794
 #EXTINF:-1 tvg-name="三国演义" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",三国演义
