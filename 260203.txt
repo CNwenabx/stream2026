@@ -379,44 +379,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-name="澳视综艺" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/澳视综艺.png" group-title="港台综合",澳视综艺
 http://cdn6.163189.xyz/163189/amzy
 
-国际体育
-#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://cnwenabx.github.io/stream2026/LOGO/NBATV" group-title="国际体育",NBATV
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2470.ts
-#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://cnwenabx.github.io/stream2026/LOGO/NBATV" group-title="国际体育",NBATV
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3751.ts
-#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://cnwenabx.github.io/stream2026/LOGO/NBATV" group-title="国际体育",NBATV
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3667.ts
-#EXTINF:-1 tvg-name="Premier League TV" tvg-logo="https://cnwenabx.github.io/stream2026/LOGO/premier-league-logo-black-and-white.JPG" group-title="国际体育",Premier League TV
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660938.ts
-#EXTINF:-1 tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSPREMIERLEAGUE.png" group-title="国际体育",SKY SPORTS PREMIER LEAGUE
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2182.ts
-#EXTINF:-1 tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSPREMIERLEAGUE.png" group-title="国际体育",SKY SPORTS PREMIER LEAGUE
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2181.ts
-#EXTINF:-1 tvg-name="SKY SPORTS ARENA" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSARENA.png" group-title="国际体育",SKY SPORTS ARENA
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2193.ts
-#EXTINF:-1 tvg-name="SKY SPORTS F1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSF1.png" group-title="国际体育",SKY SPORTS F1
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
-#EXTINF:-1 tvg-name="SKY SPORTS F1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSF1.png" group-title="国际体育",SKY SPORTS F1
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2190.ts
-#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENTS" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSMAINEVENT.png" group-title="国际体育",SKY SPORTS MAIN EVENTS
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2185.ts
-#EXTINF:-1 tvg-name="SKY SPORTS MAIN EVENTS" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSMAINEVENT.png" group-title="国际体育",SKY SPORTS MAIN EVENTS
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2184.ts
-#EXTINF:-1 tvg-name="SKY SPORTS NEWS" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/SKYSPORTSNEWS.png" group-title="国际体育",SKY SPORTS NEWS
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2179.ts
-#EXTINF:-1 tvg-name="FOXSPORTS" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png" group-title="国际体育",FOXSPORTS
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3645.ts
-#EXTINF:-1 tvg-name="FOXSPORTS" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png" group-title="国际体育",FOXSPORTS
-http://67.220.67.246:2347/livehttpplay?channel_id=13033
-#EXTINF:-1 tvg-name="FOXSPORTS2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2.png" group-title="国际体育",FOXSPORTS2
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3646.ts
-#EXTINF:-1 tvg-name="FOXSPORTS2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2.png" group-title="国际体育",FOXSPORTS2
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2500.ts
-#EXTINF:-1 tvg-name="FOXSPORTS2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS2.png" group-title="国际体育",FOXSPORTS2
-http://67.220.67.246:2347/livehttpplay?channel_id=13034
-#EXTINF:-1 tvg-name="CA FOXSPORTSRacing" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/FOXSPORTS.png" group-title="国际体育",CA FOXSPORTSRacing
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3053.ts
-
 #国际综合
 #EXTINF:-1 tvg-name="4K Travel TV" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Travel Channel.png" group-title="国际综合",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
@@ -424,14 +386,6 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Fashion TV.png" group-title="国际综合",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="CNNINTERNATIONAL" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNNINTERNATIONAL.png" group-title="国际综合",CNNINTERNATIONAL
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88946.ts
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNN.png" group-title="国际综合",CNN
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3715.ts
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNN.png" group-title="国际综合",CNN
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3257.ts
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNN.png" group-title="国际综合",CNN
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88067.ts
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNN.png" group-title="国际综合",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNN.png" group-title="国际综合",CNN
