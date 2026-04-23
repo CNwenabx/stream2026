@@ -173,7 +173,7 @@ http://122.96.52.98:8006/JS_CUCC/ZJWS-HD.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnE
 #数字
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重温经典.png" group-title="数字频道",重温经典
 http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中国天气.png" group-title="数字频道",中国天气
+#EXTINF:-2 tvg-name="中国天气" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中国天气.png" group-title="数字频道",中国天气
 http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/风云足球.png" group-title="数字频道",风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
