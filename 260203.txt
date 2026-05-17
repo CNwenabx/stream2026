@@ -401,24 +401,12 @@ http://cdn6.163189.xyz/163189/chu
 #剧集
 #EXTINF:-1 tvg-name="地下交通站" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",地下交通站
 http://live.ottiptv.cc/huya/11342433
-#EXTINF:-1 tvg-name="炊事班的故事" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",炊事班的故事
-http://live.ottiptv.cc/huya/19524135
 #EXTINF:-1 tvg-name="杨光的快乐生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",杨光的快乐生活
 http://live.ottiptv.cc/huya/11602085
-#EXTINF:-1 tvg-name="马大帅" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",马大帅
-http://live.ottiptv.cc/huya/23650804
-#EXTINF:-1 tvg-name="刘老根" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",刘老根
-http://live.ottiptv.cc/huya/23652426
-#EXTINF:-1 tvg-name="东北一家人" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",东北一家人
-http://live.ottiptv.cc/huya/21059634
 #EXTINF:-1 tvg-name="终极三国" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",终极三国
 http://live.ottiptv.cc/huya/21059562
 #EXTINF:-1 tvg-name="粉红女郎" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",粉红女郎
 http://live.ottiptv.cc/huya/26355794
-#EXTINF:-1 tvg-name="三国演义" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",三国演义
-https://live.ottiptv.cc/huya/11602081
-#EXTINF:-1 tvg-name="三国演义" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",三国演义
-http://live.ottiptv.cc/huya/11602081
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",封神榜
 http://live.ottiptv.cc/huya/29465849
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",天龙八部
@@ -431,14 +419,6 @@ https://live.ottiptv.cc/huya/11352879
 http://live.ottiptv.cc/huya/11342394
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",蜡笔小新
 http://live.ottiptv.cc/huya/11352970
-#EXTINF:-1 tvg-name="精灵宝可梦" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",精灵宝可梦
-http://live.ottiptv.cc/huya/23749096
-#EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",七龙珠
-https://live.ottiptv.cc/huya/11601966
-#EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",七龙珠
-http://live.ottiptv.cc/huya/11601966
-#EXTINF:-1 tvg-name="网球王子" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",网球王子
-http://live.ottiptv.cc/huya/11352882
 
 #直播中国
 #EXTINF:-1 tvg-name="建水双龙桥" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/直播中国.png" group-title="直播中国",建水双龙桥
