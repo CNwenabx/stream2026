@@ -409,14 +409,10 @@ http://live.ottiptv.cc/huya/21059562
 http://live.ottiptv.cc/huya/26355794
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",封神榜
 http://live.ottiptv.cc/huya/29465849
-#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",天龙八部
-https://live.ottiptv.cc/huya/20985816
 
 #动画
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",猫和老鼠
 https://live.ottiptv.cc/huya/11352879
-#EXTINF:-1 tvg-name="樱桃小丸子" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",樱桃小丸子
-http://live.ottiptv.cc/huya/11342394
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",蜡笔小新
 http://live.ottiptv.cc/huya/11352970
 
