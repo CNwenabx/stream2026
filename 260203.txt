@@ -407,8 +407,7 @@ http://live.ottiptv.cc/huya/11602085
 http://live.ottiptv.cc/huya/21059562
 #EXTINF:-1 tvg-name="粉红女郎" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",粉红女郎
 http://live.ottiptv.cc/huya/26355794
-#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",封神榜
-http://live.ottiptv.cc/huya/29465849
+
 
 #动画
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/虎牙.png" group-title="轮播频道",猫和老鼠
